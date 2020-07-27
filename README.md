@@ -1,4 +1,4 @@
-# What is this?
+# What Is This?
 Intended for people in my team, this document is to help you understand how I work.  It is designed so that I can be more predictable *for you*, be more accountable *to you*, and you get the most value out of me as your manager. 
 
 This document **is not** a replacement for direct interactions between us, or a FAQ for any future questions.
@@ -25,7 +25,7 @@ We win together, so never go alone.  And if we fail, we can address quickly as a
 
 You have permission to fail.  This does not mean I want you to fail, but moreso that I encourage us to take risks together.
 
-## Disagree and Commit
+## Disagree & Commit
 We will inevitably disagree at times, and still need to move forward. We can always stay agile and plot a new course if we are wrong, but not making a decision is much worse - perfection is the enemy of progress.
 
 # Admin
