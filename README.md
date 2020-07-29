@@ -49,7 +49,7 @@ For my directs I schedule weekly 1:1's for 30 minutes.  For my skip reports I sc
 
 Anyone is welcome to book a meeting with me in addition to this at any time.  My calendar gets busy, so availability will determine how soon we can meet.
 
-We will run an all hands every 3 months, in which we will discuss high level progress, communication from our leadership, and I will share my thoughts.  I will seek input from you for this and welcome participation.  
+We will run an all hands every 3 months, in which we will discuss high level progress, communication from our leadership, and I will share my thoughts.  I will seek input from you for this and welcome participation.  I will also run these ahead of our skip meetings to make the most of the 1:1 interaction.
 
 ## Approvals
 If you are posting requests for approval (leave, expenses, etc) to me, I generally approve in real-time.  If I have not approved within 24 hours, feel free to ping me.
