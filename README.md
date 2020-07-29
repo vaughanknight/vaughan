@@ -1,7 +1,7 @@
 # What Is This?
 Intended for people in my team, this document is to help you understand how I work.  It is designed so that I can be more predictable *for you*, be more accountable *to you*, and you get the most value out of me as your manager. 
 
-This document **is not** a replacement for direct interactions between us, or a FAQ for any future questions.
+This document **is not** a replacement for direct interactions between us, or a FAQ for any future questions.  If you have questions, you are always welcome to reach out.
 
 # My Management Style
 ## My Role
