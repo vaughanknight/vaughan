@@ -54,7 +54,7 @@ We will run an all hands every 3 months, in which we will discuss high level pro
 ## Approvals
 If you are posting requests for approval (leave, expenses, etc) to me, I generally approve in real-time.  If I have not approved within 24 hours, feel free to ping me.
 
-Expenses grouped into logical chunks make it significantly easier for me to approve.  If I have to spend time deciphering, I can't do it in real-time.  As such I'll need to set aside time which can in turn add days to the approval turnaround.
+Expenses grouped into logical chunks make it significantly easier for me to approve.  If I have to spend time deciphering your approvals, I can not do it in real-time.  As such I will need to set aside time which can in turn add days to the approval turnaround.
 
 For example...
 > Expenses for &lt;Customer Engagement&gt; 
