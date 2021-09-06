@@ -121,9 +121,13 @@ the approval turnaround.
 
 For example...
 
->   Expenses for &lt;Customer Engagement&gt;
+>   Expenses for \<Customer Engagement\>
+
+>   Expenses for \<Customer Engagement 2\>
+
+>   General Expenses
 
 ... helps me assess and approve much faster than ...
 
->   Expenses for &lt;Customer Engagement 1&gt; + &lt;Customer Engagement 2&gt; +
->   General Expenses + ...
+>   Expenses for \<Customer Engagement 1\> + \<Customer Engagement\> + General
+>   Expenses + ...
