@@ -58,7 +58,7 @@ truly believe in and am committed to driving. I hold myself accountable to this
 and expect my teams to hold me accountable.
 
 I believe people perform at their best when they believe they belong, are
-included, heard, valued, and supported. I believe Teams perform at their best
+included, heard, valued, and supported. I believe teams perform at their best
 when they leverage the diverse perspectives of everyone in the team, and in turn
 create an inclusive environment for their people.
 
