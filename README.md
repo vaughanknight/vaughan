@@ -98,7 +98,7 @@ meetings are best if possible, however with COVID-19 this is less likely, so
 video conference is the next best option.
 
 For my directs I schedule weekly 1:1's for 30 minutes. For my skip reports I
-schedule 30 minutes every 3 months.
+schedule 15 minutes every 3 months.  
 
 Anyone is welcome to book a meeting with me in addition to this at any time. My
 calendar gets busy, so availability will determine how soon we can meet.
