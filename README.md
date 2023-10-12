@@ -94,7 +94,7 @@ To ensure there is an opportunity for us to connect, I will schedule regular
 1:1's with all direct and skip reports.
 
 The meeting agenda is yours, and the purpose is not a status meeting. In person
-meetings are best if possible, however with COVID-19 this is less likely, so
+meetings are best if possible, however with locations being across countries at times, so
 video conference is the next best option.
 
 For my directs I schedule weekly 1:1's for 30 minutes. For my skip reports I
