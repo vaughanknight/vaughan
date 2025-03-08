@@ -84,9 +84,8 @@ I will often work on weekends, out of hours, and occasionally on vacation. I
 **do not** expect this from you. I **do not** expect a response if I send a
 message to you out of hours.
 
-For emergencies, you can call and SMS me any time 24/7 - however Teams is still
-the most resilient and reliable mode of communication so feel free to broadcast
-across phone/Teams if urgent.
+For emergencies - Teams is still the most resilient and reliable mode of 
+communication.  
 
 ## Connection Cadence
 
@@ -94,14 +93,15 @@ To ensure there is an opportunity for us to connect, I will schedule regular
 1:1's with all direct and skip reports.
 
 The meeting agenda is yours, and the purpose is not a status meeting. In person
-meetings are best if possible, however with locations being across countries at times, so
+meetings are best if possible, however with locations being across countries at times, 
 video conference is the next best option.
 
 For my directs I schedule weekly 1:1's for 30 minutes. For my skip reports I
-schedule 15 minutes every 3 months.  
+schedule 15 minutes minimum every 3 months.  
 
-Anyone is welcome to book a meeting with me in addition to this at any time. My
-calendar gets busy, so availability will determine how soon we can meet.
+Anyone is welcome to ask for a meeting with me in addition to this at any time. My
+calendar may be open, but this does not mean my schedule is open.  Availability will 
+determine how soon we can meet.
 
 We will run an all hands every 3 months, in which we will discuss high level
 progress, communication from our leadership, and I will share my thoughts. I
@@ -112,7 +112,7 @@ these ahead of our skip meetings to make the most of the 1:1 interaction.
 
 If you are posting requests for approval (leave, expenses, etc) to me, I
 generally approve in real-time. If I have not approved within 24 hours, feel
-free to ping me.
+free to follow up with me on Teams.
 
 Expenses grouped into logical chunks make it significantly easier for me to
 approve. If I have to spend time deciphering your approvals, I can not do it in
