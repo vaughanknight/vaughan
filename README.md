@@ -103,7 +103,7 @@ Anyone is welcome to ask for a meeting with me in addition to this at any time. 
 calendar may be open, but this does not mean my schedule is open.  Availability will 
 determine how soon we can meet.
 
-We will run an all hands every 3 months, in which we will discuss high level
+We will run a studio town hall every 3 months, in which we will discuss high level
 progress, communication from our leadership, and I will share my thoughts. I
 will seek input from you for this and welcome participation. I will also run
 these ahead of our skip meetings to make the most of the 1:1 interaction.
